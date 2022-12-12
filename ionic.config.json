@@ -1,0 +1,7 @@
+{
+  "name": "talkIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
